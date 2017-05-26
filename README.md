@@ -1,4 +1,4 @@
-#Bootstrap-style website
+# Bootstrap-style website
 This is actually pretty easy to run.
    1. Clone the repository. 
    2. Open the index.html file.
